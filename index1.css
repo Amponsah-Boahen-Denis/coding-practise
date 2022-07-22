@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+form{
+    height: 90vh;
+    box-shadow: 0px 0px 6px rgba(0,0,0,0.6);
+    width: 95vh;
+    background-color: white;
+}
+input{
+    border: hidden;
+    margin-right:10px;
+    margin-left: 5px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    width:130px;
+    height:20px;
+    border-radius: 5px;
+}
+label{
+    margin-top: 20px;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.rad{
+    width:25px;
+    height:12px;
+    margin-left:2px;
+}
